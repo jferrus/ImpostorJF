@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sparse-halo",
-    "slug": "sparse-halo",
+    "name": "ImpostorJF",
+    "slug": "impostorjf",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,20 +10,26 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0F172A"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "package": "com.anonymous.impostorjf",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#0F172A"
       },
       "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6b65e2ca-4990-40d1-bf54-ae1b6eff7aa8"
+      }
     }
   }
 }
