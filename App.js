@@ -116,7 +116,7 @@ export default function App() {
         <StatusBar barStyle="light-content" />
         <View style={styles.header}>
           <Text style={styles.title}>ImpostorJF</Text>
-          <Text style={styles.subtitle}>Setup players (Min 3)</Text>
+          <Text style={styles.subtitle}>Configurar jugadores (Mínimo 3)</Text>
         </View>
 
         <FlatList
