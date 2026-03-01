@@ -179,16 +179,34 @@ export default function App() {
     const isImpostor = gameState.impostor_id === currentPlayer.id;
     return (
       <View style={[styles.container, styles.centered]}>
-        <Text style={styles.instruction}>Tu palabra es:</Text>
-        <Text style={styles.wordDisplay}>
-          {isImpostor ? gameState.clue : gameState.word}
-        </Text>
-        {isImpostor && (
-          <View style={styles.impostorLabelContainer}>
-            <MaterialCommunityIcons name="incognito" size={24} color="#EF4444" style={{ marginRight: 8 }} />
-            <Text style={styles.impostorHint}>Eres el Impostor</Text>
-          </View>
-        )}
+        <View style={styles.revealCard}>
+          <Text style={styles.categoryLabel}>Categoría</Text>
+          <Text style={styles.categoryValue}>{gameState.category.replace('Categoría: ', '')}</Text>
+
+          <View style={styles.divider} />
+
+          <Text style={styles.instruction}>
+            {isImpostor ? 'Tu pista es:' : 'Tu palabra es:'}
+          </Text>
+          <Text style={styles.wordDisplay}>
+            {isImpostor ? gameState.clue : gameState.word}
+          </Text>
+
+          {!isImpostor && (
+            <>
+              <View style={styles.dividerSmall} />
+              <Text style={styles.clueLabel}>Pista adicional:</Text>
+              <Text style={styles.clueValue}>{gameState.clue}</Text>
+            </>
+          )}
+
+          {isImpostor && (
+            <View style={styles.impostorLabelContainer}>
+              <MaterialCommunityIcons name="incognito" size={24} color="#EF4444" style={{ marginRight: 8 }} />
+              <Text style={styles.impostorHint}>Eres el Impostor</Text>
+            </View>
+          )}
+        </View>
 
         <TouchableOpacity style={styles.mainButton} onPress={handleNextPlayer}>
           <Text style={styles.mainButtonText}>ENTENDIDO</Text>
@@ -430,5 +448,55 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.3,
     shadowRadius: 10,
     elevation: 10,
+  },
+  revealCard: {
+    backgroundColor: '#1E293B',
+    borderRadius: 24,
+    padding: 30,
+    width: '100%',
+    alignItems: 'center',
+    marginBottom: 30,
+    borderWidth: 1,
+    borderColor: '#334155',
+  },
+  categoryLabel: {
+    fontSize: 14,
+    color: '#94A3B8',
+    textTransform: 'uppercase',
+    letterSpacing: 2,
+    fontWeight: '700',
+    marginBottom: 8,
+  },
+  categoryValue: {
+    fontSize: 28,
+    fontWeight: '900',
+    color: '#38BDF8',
+    textAlign: 'center',
+    marginBottom: 20,
+  },
+  divider: {
+    height: 1,
+    backgroundColor: '#334155',
+    width: '100%',
+    marginBottom: 20,
+  },
+  dividerSmall: {
+    height: 1,
+    backgroundColor: '#334155',
+    width: '60%',
+    marginVertical: 15,
+  },
+  clueLabel: {
+    fontSize: 14,
+    color: '#94A3B8',
+    fontWeight: '600',
+    marginBottom: 4,
+  },
+  clueValue: {
+    fontSize: 16,
+    color: '#F1F5F9',
+    fontStyle: 'italic',
+    textAlign: 'center',
+    paddingHorizontal: 20,
   },
 });

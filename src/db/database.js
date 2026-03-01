@@ -13,6 +13,7 @@ export const initDatabase = () => {
     CREATE TABLE IF NOT EXISTS words (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       word TEXT NOT NULL,
+      category TEXT NOT NULL,
       clue TEXT NOT NULL
     );
     CREATE TABLE IF NOT EXISTS active_game (
@@ -24,16 +25,27 @@ export const initDatabase = () => {
     );
   `);
 
-  // Sync database words with library if lengths differ
+  // Sync database words with library if lengths differ or schema changed
+  const tableInfo = db.getAllSync("PRAGMA table_info(words)");
+  const hasCategory = tableInfo.some(col => col.name === 'category');
   const wordsCount = db.getFirstSync('SELECT COUNT(*) as count FROM words').count;
-  if (wordsCount !== wordsList.length) {
+
+  if (!hasCategory || wordsCount !== wordsList.length) {
     db.withTransactionSync(() => {
-      db.runSync('DELETE FROM words');
+      db.runSync('DROP TABLE IF EXISTS words');
+      db.execSync(`
+        CREATE TABLE words (
+          id INTEGER PRIMARY KEY AUTOINCREMENT,
+          word TEXT NOT NULL,
+          category TEXT NOT NULL,
+          clue TEXT NOT NULL
+        );
+      `);
       for (const item of wordsList) {
-        db.runSync('INSERT INTO words (word, clue) VALUES (?, ?)', item.word, item.clue);
+        db.runSync('INSERT INTO words (word, category, clue) VALUES (?, ?, ?)', item.word, item.category, item.clue);
       }
     });
-    console.log(`Synchronized ${wordsList.length} words.`);
+    console.log(`Synchronized ${wordsList.length} words with category.`);
   }
 };
 
@@ -77,7 +89,7 @@ export const setupGame = async () => {
 
 export const getGameState = () => {
   const state = db.getFirstSync(`
-    SELECT ag.*, w.word, w.clue, p.name as impostor_name
+    SELECT ag.*, w.word, w.category, w.clue, p.name as impostor_name
     FROM active_game ag
     JOIN words w ON ag.word_id = w.id
     JOIN players p ON ag.impostor_id = p.id

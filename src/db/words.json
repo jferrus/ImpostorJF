@@ -1,4192 +1,612 @@
 [
   {
-    "word": "Inception",
-    "category": "Categoría: Cine & TV",
-    "clue": "Sueños dentro de sueños con un trompo que gira."
+    "word": "Plátano",
+    "category": "Fruta",
+    "clue": "Amarillo"
   },
   {
-    "word": "Interstellar",
-    "category": "Categoría: Cine & TV",
-    "clue": "Exploración espacial, tiempo y amor a través de dimensiones."
+    "word": "Manzana",
+    "category": "Fruta",
+    "clue": "Roja"
   },
   {
-    "word": "Dark",
-    "category": "Categoría: Cine & TV",
-    "clue": "Viajes en el tiempo en un pequeño pueblo alemán."
+    "word": "Naranja",
+    "category": "Fruta",
+    "clue": "Naranja"
   },
   {
-    "word": "Breaking Bad",
-    "category": "Categoría: Cine & TV",
-    "clue": "Profesor de química que empieza a fabricar sustancias ilegales."
+    "word": "Uva",
+    "category": "Fruta",
+    "clue": "Morada"
   },
   {
-    "word": "The Wire",
-    "category": "Categoría: Cine & TV",
-    "clue": "Realismo crudo sobre el tráfico de drogas en Baltimore."
+    "word": "Fresa",
+    "category": "Fruta",
+    "clue": "Roja"
   },
   {
-    "word": "The Sopranos",
-    "category": "Categoría: Cine & TV",
-    "clue": "Un jefe de la mafia lidiando con problemas familiares."
+    "word": "Sandía",
+    "category": "Fruta",
+    "clue": "Roja"
   },
   {
-    "word": "Mad Men",
-    "category": "Categoría: Cine & TV",
-    "clue": "Agencia de publicidad en los años 60 en Nueva York."
+    "word": "Melón",
+    "category": "Fruta",
+    "clue": "Amarillo"
   },
   {
-    "word": "Friends",
-    "category": "Categoría: Cine & TV",
-    "clue": "Seis amigos viviendo en Nueva York y tomando café."
+    "word": "Piña",
+    "category": "Fruta",
+    "clue": "Amarillo"
   },
   {
-    "word": "The Office",
-    "category": "Categoría: Cine & TV",
-    "clue": "Día a día cómico en una oficina de papel."
+    "word": "Mango",
+    "category": "Fruta",
+    "clue": "Amarillo"
   },
   {
-    "word": "The Simpsons",
-    "category": "Categoría: Cine & TV",
-    "clue": "Familia amarilla animada que vive en Springfield."
-  },
-  {
-    "word": "Family Guy",
-    "category": "Categoría: Cine & TV",
-    "clue": "Aventuras excéntricas de la familia Griffin en Quahog."
-  },
-  {
-    "word": "South Park",
-    "category": "Categoría: Cine & TV",
-    "clue": "Cuatro niños en un pueblo nevado con humor satírico."
-  },
-  {
-    "word": "Rick and Morty",
-    "category": "Categoría: Cine & TV",
-    "clue": "Científico loco y su nieto viajando por el multiverso."
-  },
-  {
-    "word": "The Mandalorian",
-    "category": "Categoría: Cine & TV",
-    "clue": "Cazarrecompensas solitario protege a un pequeño ser verde."
-  },
-  {
-    "word": "The Crown",
-    "category": "Categoría: Cine & TV",
-    "clue": "Drama histórico sobre el reinado de Isabel II."
-  },
-  {
-    "word": "Succession",
-    "category": "Categoría: Cine & TV",
-    "clue": "Familia disfuncional lucha por el control de un imperio mediático."
-  },
-  {
-    "word": "Squid Game",
-    "category": "Categoría: Cine & TV",
-    "clue": "Personas endeudadas juegan juegos infantiles mortales por dinero."
-  },
-  {
-    "word": "Money Heist",
-    "category": "Categoría: Cine & TV",
-    "clue": "Atraco perfecto a la Fábrica Nacional de Moneda."
-  },
-  {
-    "word": "Lupin",
-    "category": "Categoría: Cine & TV",
-    "clue": "Ladrón de guante blanco inspirado en el personaje clásico."
-  },
-  {
-    "word": "Sherlock",
-    "category": "Categoría: Cine & TV",
-    "clue": "Detective brillante que utiliza la deducción en el Londres actual."
-  },
-  {
-    "word": "Fargo",
-    "category": "Categoría: Cine & TV",
-    "clue": "Crímenes absurdos en el gélido Minnesota."
-  },
-  {
-    "word": "Lost",
-    "category": "Categoría: Cine & TV",
-    "clue": "Supervivientes de un accidente aéreo en una isla misteriosa."
-  },
-  {
-    "word": "Prison Break",
-    "category": "Categoría: Cine & TV",
-    "clue": "Ingeniero se infiltra en prisión para rescatar a su hermano."
-  },
-  {
-    "word": "Dexter",
-    "category": "Categoría: Cine & TV",
-    "clue": "Forense de día, asesino en serie de criminales de noche."
-  },
-  {
-    "word": "House",
-    "category": "Categoría: Cine & TV",
-    "clue": "Médico brillante y cínico que resuelve casos imposibles."
-  },
-  {
-    "word": "Grey's Anatomy",
-    "category": "Categoría: Cine & TV",
-    "clue": "Drama médico centrado en internos y cirujanos en Seattle."
-  },
-  {
-    "word": "The Walking Dead",
-    "category": "Categoría: Cine & TV",
-    "clue": "Supervivencia en un mundo apocalíptico lleno de zombis."
-  },
-  {
-    "word": "Westworld",
-    "category": "Categoría: Cine & TV",
-    "clue": "Parque temático futurista habitado por robots que ganan conciencia."
-  },
-  {
-    "word": "Chernobyl",
-    "category": "Categoría: Cine & TV",
-    "clue": "Miniserie sobre el desastre nuclear de la URSS en 1986."
-  },
-  {
-    "word": "Narcos",
-    "category": "Categoría: Cine & TV",
-    "clue": "Ascenso y caída de los carteles de droga en Colombia."
-  },
-  {
-    "word": "Peaky Blinders",
-    "category": "Categoría: Cine & TV",
-    "clue": "Gangsters de Birmingham liderados por Tommy Shelby tras guerra."
-  },
-  {
-    "word": "Titanic",
-    "category": "Categoría: Cine & TV",
-    "clue": "Trágico romance entre Rose y Jack en un barco hundido."
-  },
-  {
-    "word": "Star Wars",
-    "category": "Categoría: Cine & TV",
-    "clue": "Guerra galáctica entre los Jedi y los Sith."
-  },
-  {
-    "word": "Avatar",
-    "category": "Categoría: Cine & TV",
-    "clue": "Humanos en Pandora usando cuerpos de alienígenas azules."
-  },
-  {
-    "word": "El Padrino",
-    "category": "Categoría: Cine & TV",
-    "clue": "Obra maestra sobre la familia Corleone y la mafia."
-  },
-  {
-    "word": "Gladiator",
-    "category": "Categoría: Cine & TV",
-    "clue": "General romano traicionado que busca venganza como gladiador."
-  },
-  {
-    "word": "Batman",
-    "category": "Categoría: Cine & TV",
-    "clue": "Héroe de Gotham que combate el crimen sin superpoderes."
-  },
-  {
-    "word": "Joker",
-    "category": "Categoría: Cine & TV",
-    "clue": "Origen del villano más famoso con risa incontrolable."
-  },
-  {
-    "word": "Spider-Man",
-    "category": "Categoría: Cine & TV",
-    "clue": "Joven picado por araña que protege Nueva York."
-  },
-  {
-    "word": "Iron Man",
-    "category": "Categoría: Cine & TV",
-    "clue": "Millonario con armadura tecnológica de alta tecnología roja."
-  },
-  {
-    "word": "Avengers",
-    "category": "Categoría: Cine & TV",
-    "clue": "Grupo de superhéroes que se unen para salvar la Tierra."
-  },
-  {
-    "word": "Harry Potter",
-    "category": "Categoría: Cine & TV",
-    "clue": "Niño mago que asiste a una escuela de magia."
-  },
-  {
-    "word": "El Señor de los Anillos",
-    "category": "Categoría: Cine & TV",
-    "clue": "Viaje para destruir un anillo único en la Tierra Media."
-  },
-  {
-    "word": "The Hobbit",
-    "category": "Categoría: Cine & TV",
-    "clue": "Aventuras de Bilbo Baggins con enanos y un dragón."
-  },
-  {
-    "word": "Jurassic Park",
-    "category": "Categoría: Cine & TV",
-    "clue": "Parque temático donde los dinosaurios vuelven a la vida."
-  },
-  {
-    "word": "Jaws",
-    "category": "Categoría: Cine & TV",
-    "clue": "Un gran tiburón blanco aterroriza una zona costera."
-  },
-  {
-    "word": "Alien",
-    "category": "Categoría: Cine & TV",
-    "clue": "Criatura aterradora acecha a los tripulantes de una nave."
-  },
-  {
-    "word": "Predator",
-    "category": "Categoría: Cine & TV",
-    "clue": "Cazador alienígena invisible en la selva contra militares."
-  },
-  {
-    "word": "Terminator",
-    "category": "Categoría: Cine & TV",
-    "clue": "Robot del futuro enviado para matar a Sarah Connor."
-  },
-  {
-    "word": "Robocop",
-    "category": "Categoría: Cine & TV",
-    "clue": "Policía convertido en cyborg que patrulla un Detroit violento."
-  },
-  {
-    "word": "Mad Max",
-    "category": "Categoría: Cine & TV",
-    "clue": "Mundo postapocalíptico desértico con persecuciones de coches brutales."
-  },
-  {
-    "word": "Rocky",
-    "category": "Categoría: Cine & TV",
-    "clue": "Boxeador humilde que recibe una oportunidad por el título."
-  },
-  {
-    "word": "Rambo",
-    "category": "Categoría: Cine & TV",
-    "clue": "Veterano de guerra experto en supervivencia y combate."
-  },
-  {
-    "word": "Die Hard",
-    "category": "Categoría: Cine & TV",
-    "clue": "Policía atrapado en un edificio contra unos terroristas."
-  },
-  {
-    "word": "Indiana Jones",
-    "category": "Categoría: Cine & TV",
-    "clue": "Arqueólogo aventurero en busca de reliquias sagradas."
-  },
-  {
-    "word": "Back to the Future",
-    "category": "Categoría: Cine & TV",
-    "clue": "Joven viaja al pasado en un coche DeLorean tecnológico."
-  },
-  {
-    "word": "Ghostbusters",
-    "category": "Categoría: Cine & TV",
-    "clue": "Equipo que captura fantasmas en la ciudad de Nueva York."
-  },
-  {
-    "word": "The Lion King",
-    "category": "Categoría: Cine & TV",
-    "clue": "Simba busca recuperar su trono tras la muerte de Mufasa."
-  },
-  {
-    "word": "Toy Story",
-    "category": "Categoría: Cine & TV",
-    "clue": "Juguetes que cobran vida cuando los humanos no miran."
-  },
-  {
-    "word": "Finding Nemo",
-    "category": "Categoría: Cine & TV",
-    "clue": "Pez payaso busca a su hijo por el océano."
-  },
-  {
-    "word": "The Incredibles",
-    "category": "Categoría: Cine & TV",
-    "clue": "Familia de superhéroes que intenta llevar una vida normal."
-  },
-  {
-    "word": "Shrek",
-    "category": "Categoría: Cine & TV",
-    "clue": "Ogro verde que debe rescatar a una princesa."
-  },
-  {
-    "word": "Despicable Me",
-    "category": "Categoría: Cine & TV",
-    "clue": "Villano que adopta a tres niñas y tiene secuaces amarillos."
-  },
-  {
-    "word": "Frozen",
-    "category": "Categoría: Cine & TV",
-    "clue": "Reina de las nieves con poderes de hielo y su hermana."
-  },
-  {
-    "word": "Moana",
-    "category": "Categoría: Cine & TV",
-    "clue": "Joven navega el océano con un semidiós para salvar isla."
-  },
-  {
-    "word": "Coco",
-    "category": "Categoría: Cine & TV",
-    "clue": "Niño viaja al mundo de los muertos para descubrir origen."
-  },
-  {
-    "word": "Up",
-    "category": "Categoría: Cine & TV",
-    "clue": "Viejo viaja en una casa voladora con muchos globos."
-  },
-  {
-    "word": "Monsters Inc",
-    "category": "Categoría: Cine & TV",
-    "clue": "Monstruos que asustan niños para obtener energía de gritos."
-  },
-  {
-    "word": "Ratatouille",
-    "category": "Categoría: Cine & TV",
-    "clue": "Rata que sueña con ser un gran chef en París."
-  },
-  {
-    "word": "Wall-E",
-    "category": "Categoría: Cine & TV",
-    "clue": "Pequeño robot de limpieza solo en un planeta abandonado."
-  },
-  {
-    "word": "Cars",
-    "category": "Categoría: Cine & TV",
-    "clue": "Coche de carreras rojo que aprende humildad en un pueblo."
-  },
-  {
-    "word": "Brave",
-    "category": "Categoría: Cine & TV",
-    "clue": "Princesa arquera que desafía tradiciones y transforma a su madre."
-  },
-  {
-    "word": "Inside Out",
-    "category": "Categoría: Cine & TV",
-    "clue": "Emociones dentro de la mente de una niña pequeña."
-  },
-  {
-    "word": "Goodfellas",
-    "category": "Categoría: Cine & TV",
-    "clue": "Ascenso y caída de tres gánsteres durante tres décadas."
-  },
-  {
-    "word": "Pulp Fiction",
-    "category": "Categoría: Cine & TV",
-    "clue": "Historias entrelazadas de criminales con diálogos icónicos."
-  },
-  {
-    "word": "Forrest Gump",
-    "category": "Categoría: Cine & TV",
-    "clue": "Hombre bondadoso que presencia momentos históricos de EE. UU."
-  },
-  {
-    "word": "Psycho",
-    "category": "Categoría: Cine & TV",
-    "clue": "Secretaria se aloja en un motel con un dueño extraño."
-  },
-  {
-    "word": "Vertigo",
-    "category": "Categoría: Cine & TV",
-    "clue": "Detective con miedo a las alturas obsesionado con una mujer."
-  },
-  {
-    "word": "Citizen Kane",
-    "category": "Categoría: Cine & TV",
-    "clue": "Investigación sobre la última palabra de un magnate mediático."
-  },
-  {
-    "word": "Casablanca",
-    "category": "Categoría: Cine & TV",
-    "clue": "Drama bélico en Marruecos durante la Segunda Guerra Mundial."
-  },
-  {
-    "word": "Grease",
-    "category": "Categoría: Cine & TV",
-    "clue": "Romance musical de instituto entre Danny y Sandy."
-  },
-  {
-    "word": "Top Gun",
-    "category": "Categoría: Cine & TV",
-    "clue": "Pilotos de élite de la marina compitiendo por ser mejores."
-  },
-  {
-    "word": "Fight Club",
-    "category": "Categoría: Cine & TV",
-    "clue": "Hombre insomne forma un club de lucha clandestino."
-  },
-  {
-    "word": "Seven",
-    "category": "Categoría: Cine & TV",
-    "clue": "Dos detectives buscan a un asesino basado en pecados capitales."
-  },
-  {
-    "word": "The Silence of the Lambs",
-    "category": "Categoría: Cine & TV",
-    "clue": "Agente busca ayuda de un caníbal para atrapar asesino."
-  },
-  {
-    "word": "Braveheart",
-    "category": "Categoría: Cine & TV",
-    "clue": "Guerrero escocés lidera rebelión contra los ingleses."
-  },
-  {
-    "word": "Schindler's List",
-    "category": "Categoría: Cine & TV",
-    "clue": "Empresario salva a judíos durante el Holocausto nazi."
-  },
-  {
-    "word": "Saving Private Ryan",
-    "category": "Categoría: Cine & TV",
-    "clue": "Misión para rescatar a un soldado tras el desembarco Normandía."
-  },
-  {
-    "word": "Blade Runner",
-    "category": "Categoría: Cine & TV",
-    "clue": "Cazador de replicantes en un futuro distópico lluvioso."
-  },
-  {
-    "word": "Dune",
-    "category": "Categoría: Cine & TV",
-    "clue": "Guerra por el control de la especia en un planeta desértico."
-  },
-  {
-    "word": "Arrival",
-    "category": "Categoría: Cine & TV",
-    "clue": "Lingüista intenta comunicarse con alienígenas que llegan a Tierra."
-  },
-  {
-    "word": "Tenet",
-    "category": "Categoría: Cine & TV",
-    "clue": "Agente intenta prevenir guerra mundial manipulando el flujo temporal."
-  },
-  {
-    "word": "The Prestige",
-    "category": "Categoría: Cine & TV",
-    "clue": "Dos magos rivales enfrentados en una competencia mortal."
-  },
-  {
-    "word": "Memento",
-    "category": "Categoría: Cine & TV",
-    "clue": "Hombre con pérdida de memoria corta busca al asesino esposa."
-  },
-  {
-    "word": "Dunkirk",
-    "category": "Categoría: Cine & TV",
-    "clue": "Explosiva evacuación de tropas aliadas cercadas en Francia."
-  },
-  {
-    "word": "Whiplash",
-    "category": "Categoría: Cine & TV",
-    "clue": "Joven baterista bajo la tutela de un profesor abusivo."
-  },
-  {
-    "word": "La La Land",
-    "category": "Categoría: Cine & TV",
-    "clue": "Músico y actriz se enamoran persiguiendo sueños en Hollywood."
-  },
-  {
-    "word": "The Social Network",
-    "category": "Categoría: Cine & TV",
-    "clue": "Creación de Facebook y las batallas legales posteriores."
-  },
-  {
-    "word": "Parasite",
-    "category": "Categoría: Cine & TV",
-    "clue": "Familia pobre se infiltra en una casa de ricos gradualmente."
-  },
-  {
-    "word": "Green Book",
-    "category": "Categoría: Cine & TV",
-    "clue": "Pianista afroamericano y su chófer italoamericano viajan por sur."
-  },
-  {
-    "word": "Moonlight",
-    "category": "Categoría: Cine & TV",
-    "clue": "Crecimiento de un joven negro en un barrio difícil Miami."
-  },
-  {
-    "word": "Spotlight",
-    "category": "Categoría: Cine & TV",
-    "clue": "Periodistas descubren escándalo de abusos en la Iglesia Católica."
-  },
-  {
-    "word": "Birdman",
-    "category": "Categoría: Cine & TV",
-    "clue": "Actor intentando recuperar su gloria en una obra Broadway."
-  },
-  {
-    "word": "12 Years a Slave",
-    "category": "Categoría: Cine & TV",
-    "clue": "Hombre libre secuestrado y vendido como esclavo en sur."
-  },
-  {
-    "word": "Argo",
-    "category": "Categoría: Cine & TV",
-    "clue": "Misión de rescate de diplomáticos en Irán fingiendo rodaje película."
-  },
-  {
-    "word": "The Artist",
-    "category": "Categoría: Cine & TV",
-    "clue": "Estrella del cine mudo enfrenta la llegada del sonido."
-  },
-  {
-    "word": "The King's Speech",
-    "category": "Categoría: Cine & TV",
-    "clue": "Rey Jorge VI intenta superar su tartamudez para radio."
-  },
-  {
-    "word": "The Hurt Locker",
-    "category": "Categoría: Cine & TV",
-    "clue": "Equipo de desactivación de explosivos en la guerra Irak."
-  },
-  {
-    "word": "Slumdog Millionaire",
-    "category": "Categoría: Cine & TV",
-    "clue": "Joven de suburbios gana concurso ¿Quién quiere ser millonario?."
-  },
-  {
-    "word": "No Country for Old Men",
-    "category": "Categoría: Cine & TV",
-    "clue": "Cazador perseguido por implacable asesino tras encontrar dinero."
-  },
-  {
-    "word": "The Departed",
-    "category": "Categoría: Cine & TV",
-    "clue": "Topo y policía infiltrado intentan descubrirse en mafia Boston."
-  },
-  {
-    "word": "Crash",
-    "category": "Categoría: Cine & TV",
-    "clue": "Vidas cruzadas en Los Ángeles lidiando con racismo y tensiones."
-  },
-  {
-    "word": "Million Dollar Baby",
-    "category": "Categoría: Cine & TV",
-    "clue": "Camarera que entrena duro para ser boxeadora profesional."
-  },
-  {
-    "word": "A Beautiful Mind",
-    "category": "Categoría: Cine & TV",
-    "clue": "Matemático brillante que lucha contra la esquizofrenia paranoide."
-  },
-  {
-    "word": "American Beauty",
-    "category": "Categoría: Cine & TV",
-    "clue": "Padre de familia en crisis obsesionado con amiga hija."
-  },
-  {
-    "word": "Shakespeare in Love",
-    "category": "Categoría: Cine & TV",
-    "clue": "Poeta encuentra a su musa mientras escribe Romeo y Julieta."
-  },
-  {
-    "word": "English Patient",
-    "category": "Categoría: Cine & TV",
-    "clue": "Hombre herido en desierto narra su pasado amoroso trágico."
-  },
-  {
-    "word": "Platoon",
-    "category": "Categoría: Cine & TV",
-    "clue": "Joven soldado vive los horrores de la guerra Vietnam."
-  },
-  {
-    "word": "Out of Africa",
-    "category": "Categoría: Cine & TV",
-    "clue": "Mujer europea dirige plantación de café en Kenia colonial."
-  },
-  {
-    "word": "Amadeus",
-    "category": "Categoría: Cine & TV",
-    "clue": "Rivalidad entre Salieri y el genio Wolfgang Amadeus Mozart."
-  },
-  {
-    "word": "Terms of Endearment",
-    "category": "Categoría: Cine & TV",
-    "clue": "Relación entre una madre y su hija durante años."
-  },
-  {
-    "word": "Gandhi",
-    "category": "Categoría: Cine & TV",
-    "clue": "Líder que utiliza la no violencia para independizar India."
-  },
-  {
-    "word": "Chariots of Fire",
-    "category": "Categoría: Cine & TV",
-    "clue": "Dos atletas británicos compiten en los Juegos Olímpicos 1924."
-  },
-  {
-    "word": "Ordinary People",
-    "category": "Categoría: Cine & TV",
-    "clue": "Familia lidiando con la muerte del hijo mayor."
-  },
-  {
-    "word": "Kramer vs. Kramer",
-    "category": "Categoría: Cine & TV",
-    "clue": "Batalla legal por la custodia de un hijo tras divorcio."
-  },
-  {
-    "word": "The Deer Hunter",
-    "category": "Categoría: Cine & TV",
-    "clue": "Efectos de la guerra de Vietnam en amigos de Pensilvania."
-  },
-  {
-    "word": "Annie Hall",
-    "category": "Categoría: Cine & TV",
-    "clue": "Comedia romántica neurótica sobre la relación Alvy y Annie."
-  },
-  {
-    "word": "Sound of Music",
-    "category": "Categoría: Cine & TV",
-    "clue": "Novicia se convierte en institutriz en Austria ante nazis."
-  },
-  {
-    "word": "My Fair Lady",
-    "category": "Categoría: Cine & TV",
-    "clue": "Profesor intenta convertir a floristería en una dama culta."
-  },
-  {
-    "word": "Tom Jones",
-    "category": "Categoría: Cine & TV",
-    "clue": "Aventuras de un joven impulsivo en la Inglaterra del siglo XVIII."
-  },
-  {
-    "word": "Lawrence of Arabia",
-    "category": "Categoría: Cine & TV",
-    "clue": "Oficial británico une tribus árabes contra los otomanos."
-  },
-  {
-    "word": "West Side Story",
-    "category": "Categoría: Cine & TV",
-    "clue": "Romeo y Julieta entre bandas rivales en Nueva York."
-  },
-  {
-    "word": "The Apartment",
-    "category": "Categoría: Cine & TV",
-    "clue": "Oficinista presta su piso a jefes para sus citas."
-  },
-  {
-    "word": "Ben-Hur",
-    "category": "Categoría: Cine & TV",
-    "clue": "Príncipe judío esclavizado busca justicia en la antigua Roma."
-  },
-  {
-    "word": "Gigi",
-    "category": "Categoría: Cine & TV",
-    "clue": "Joven educada para ser cortesana en el París de 1900."
-  },
-  {
-    "word": "Marty",
-    "category": "Categoría: Cine & TV",
-    "clue": "Carnicero solitario encuentra el amor en un salón baile."
-  },
-  {
-    "word": "On the Waterfront",
-    "category": "Categoría: Cine & TV",
-    "clue": "Estibador se enfrenta a la corrupción del sindicato puerto."
-  },
-  {
-    "word": "Romeo and Juliet",
-    "category": "Categoría: Cine & TV",
-    "clue": "Trágica historia de amor entre dos familias enfrentadas."
-  },
-  {
-    "word": "Casper",
-    "category": "Categoría: Cine & TV",
-    "clue": "Fantasma amigable que intenta hacer una nueva amiga."
-  },
-  {
-    "word": "Ghost",
-    "category": "Categoría: Cine & TV",
-    "clue": "Hombre asesinado intenta proteger a su novia desde más allá."
-  },
-  {
-    "word": "The Sixth Sense",
-    "category": "Categoría: Cine & TV",
-    "clue": "Psicólogo ayuda a niño que ve gente muerta."
-  },
-  {
-    "word": "Oldboy",
-    "category": "Categoría: Cine & TV",
-    "clue": "Hombre liberado tras 15 años de cautiverio busca venganza."
-  },
-  {
-    "word": "Trainspotting",
-    "category": "Categoría: Cine & TV",
-    "clue": "Vidas de adictos a la heroína en Edimburgo con humor."
-  },
-  {
-    "word": "Snatch",
-    "category": "Categoría: Cine & TV",
-    "clue": "Mundo criminal de Londres con diamantes y gitanos boxeadores."
-  },
-  {
-    "word": "The Big Lebowski",
-    "category": "Categoría: Cine & TV",
-    "clue": "Hombre perezoso involucrado en secuestro por confusión de nombre."
-  },
-  {
-    "word": "True Grit",
-    "category": "Categoría: Cine & TV",
-    "clue": "Niña valiente busca asesino de su padre con alguacil."
-  },
-  {
-    "word": "Miller's Crossing",
-    "category": "Categoría: Cine & TV",
-    "clue": "Conflicto entre bandas de gánsters durante la prohibición."
-  },
-  {
-    "word": "The Hateful Eight",
-    "category": "Categoría: Cine & TV",
-    "clue": "Desconocidos atrapados en una cabaña nevada tras guerra civil."
-  },
-  {
-    "word": "Django Unchained",
-    "category": "Categoría: Cine & TV",
-    "clue": "Esclavo liberado busca rescatar a su esposa de plantación."
-  },
-  {
-    "word": "Inglourious Basterds",
-    "category": "Categoría: Cine & TV",
-    "clue": "Soldados judíos planean asesinar líderes nazis en cine."
-  },
-  {
-    "word": "Kill Bill",
-    "category": "Categoría: Cine & TV",
-    "clue": "Novia masacrada busca venganza sistemática contra su antiguo equipo."
-  },
-  {
-    "word": "Reservoir Dogs",
-    "category": "Categoría: Cine & TV",
-    "clue": "Criminales tras un robo fallido sospechan de un infiltrado."
-  },
-  {
-    "word": "The Wolf of Wall Street",
-    "category": "Categoría: Cine & TV",
-    "clue": "Corredor de bolsa vive excesos y fraudes financieros extremos."
-  },
-  {
-    "word": "Shutter Island",
-    "category": "Categoría: Cine & TV",
-    "clue": "Agent investiga desaparición en hospital psiquiátrico en isla remota."
-  },
-  {
-    "word": "Aviator",
-    "category": "Categoría: Cine & TV",
-    "clue": "Biografía de Howard Hughes y su obsesión por la aviación."
-  },
-  {
-    "word": "Gangs of New York",
-    "category": "Categoría: Cine & TV",
-    "clue": "Venganza y luchas de bandas en Nueva York siglo XIX."
-  },
-  {
-    "word": "Raging Bull",
-    "category": "Categoría: Cine & TV",
-    "clue": "Ascenso y caída violenta del boxeador Jake LaMotta."
-  },
-  {
-    "word": "Taxi Driver",
-    "category": "Categoría: Cine & TV",
-    "clue": "Veterano solitario trabaja por las noches en calles peligrosas."
-  },
-  {
-    "word": "Sherlock Holmes",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Detective que usa la lógica y vive en Baker Street."
-  },
-  {
-    "word": "Darth Vader",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Villano de casco negro con respiración pesada y sable láser."
-  },
-  {
-    "word": "Luke Skywalker",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Joven granjero que se convierte en caballero Jedi galáctico."
-  },
-  {
-    "word": "James Bond",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Agente secreto británico elegante con licencia para matar."
-  },
-  {
-    "word": "Superman",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Héroe de Krypton con superfuerza inmune al acero."
-  },
-  {
-    "word": "Wonder Woman",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Princesa amazona con lazo de la verdad y brazaletes."
-  },
-  {
-    "word": "Gandalf",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mago sabio con bastón que guía a la comunidad."
-  },
-  {
-    "word": "Frodo",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Hobbit pequeño encargado de llevar el anillo al volcán."
-  },
-  {
-    "word": "Legolas",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Elfo de puntería perfecta y vista aguda con arco."
-  },
-  {
-    "word": "Aragorn",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Heredero al trono de Gondor y gran guerrero montaraz."
-  },
-  {
-    "word": "Sauron",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Ojo maligno que busca el anillo único desde Mordor."
-  },
-  {
-    "word": "Voldemort",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mago oscuro sin nariz cuyo nombre no debe pronunciarse."
-  },
-  {
-    "word": "Hermione Granger",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Estudiante de magia muy inteligente y amiga de Harry."
-  },
-  {
-    "word": "Ron Weasley",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mejor amigo de Harry Potter con familia pelirroja numerosa."
-  },
-  {
-    "word": "Albus Dumbledore",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Director sabio de la escuela de magia Hogwarts."
-  },
-  {
-    "word": "Severus Snape",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Profesor de pociones misterioso con pasado oscuro y leal."
-  },
-  {
-    "word": "Hagrid",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Gigante amable guardabosques que ama a las criaturas peligrosas."
-  },
-  {
-    "word": "Dobby",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Elfo doméstico libre que ayuda a Harry Potter siempre."
-  },
-  {
-    "word": "Gollum",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Criatura obsesionada con su tesoro que vive en cuevas."
-  },
-  {
-    "word": "Bilbo Baggins",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Hobbit aventurero que encontró el anillo en una cueva."
-  },
-  {
-    "word": "Thor",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Dios del trueno con martillo mágico llamado Mjolnir."
-  },
-  {
-    "word": "Hulk",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Científico se vuelve verde y gigante cuando se enfada."
-  },
-  {
-    "word": "Captain America",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Soldado con escudo de vibranium líder de los vengadores."
-  },
-  {
-    "word": "Black Widow",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Espía experta y combatiente letal de los vengadores."
-  },
-  {
-    "word": "Hawkeye",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Arquero con puntería infalible del equipo de los vengadores."
-  },
-  {
-    "word": "Loki",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Dios del engaño y hermano adoptivo de Thor travieso."
-  },
-  {
-    "word": "Thanos",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Titán loco que busca las gemas del infinito siempre."
-  },
-  {
-    "word": "Deadpool",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Antihéroe regenerativo que rompe la cuarta pared con humor."
-  },
-  {
-    "word": "Wolverine",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante con garras de adamantino y gran factor regenerativo."
-  },
-  {
-    "word": "Magneto",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante con poder de controlar metales y líder magnético."
-  },
-  {
-    "word": "Professor X",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Telepata en silla de ruedas fundador de los X-Men."
-  },
-  {
-    "word": "Cyclops",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Líder de X-Men con rayos ópticos rojos destructivos potentes."
-  },
-  {
-    "word": "Storm",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante capaz de controlar el clima y generar tormentas fuertes."
-  },
-  {
-    "word": "Jean Grey",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante con poderes telepáticos y fénix oscuro muy poderosa."
-  },
-  {
-    "word": "Mystique",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante cambiaformas de piel azul capaz de imitar cualquiera."
-  },
-  {
-    "word": "Beast",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante peludo azul con gran agilidad e inteligencia científica."
-  },
-  {
-    "word": "Nightcrawler",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante azul capaz de teletransportarse con humo y azufre."
-  },
-  {
-    "word": "Colossus",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante ruso capaz de transformar su piel en acero."
-  },
-  {
-    "word": "Rogue",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante que absorbe poderes y recuerdos a través del contacto."
-  },
-  {
-    "word": "Gambit",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Cajún mutante que carga objetos con energía cinética explosiva."
-  },
-  {
-    "word": "Iceman",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante capaz de generar y manipular el hielo a voluntad."
-  },
-  {
-    "word": "Kitty Pryde",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante capaz de atravesar objetos sólidos volviéndose intangible fácilmente."
-  },
-  {
-    "word": "Angel",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante con grandes alas blancas capaz de volar rápidamente."
-  },
-  {
-    "word": "Banshee",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante con un grito sónico potente capaz de volar alto."
-  },
-  {
-    "word": "Havok",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante que proyecta poderosos rayos de energía cósmica destructivos."
-  },
-  {
-    "word": "Polaris",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Mutante con poderes magnéticos y cabello verde muy distintivo."
-  },
-  {
-    "word": "Sunfire",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Thunderbird",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Multiple Man",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "M",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Q",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Moneypenny",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Felix Leiter",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Dr. No",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Goldfinger",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Blofeld",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Scaramanga",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Xenia Onatopp",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Le Chiffre",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Raoul Silva",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Villano de James Bond con pasado de agente traicionado."
-  },
-  {
-    "word": "Lyutsifer Safin",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Han Solo",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Contrabandista espacial y piloto del Halcón Milenario muy carismático."
-  },
-  {
-    "word": "Princess Leia",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Líder rebelde con peinado icónico y hermana de Luke."
-  },
-  {
-    "word": "Chewbacca",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Wookiee peludo fiel compañero de Han Solo que ruge."
-  },
-  {
-    "word": "Obi-Wan Kenobi",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Maestro Jedi que entrenó a Anakin y Luke Skywalker."
-  },
-  {
-    "word": "Yoda",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Pequeño maestro Jedi verde que habla de forma invertida."
-  },
-  {
-    "word": "C-3PO",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Androide dorado experto en protocolo y millones de idiomas."
-  },
-  {
-    "word": "R2-D2",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Pequeño droide astromecánico valiente que emite pitidos electrónicos."
-  },
-  {
-    "word": "Bobba Fett",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Lando Calrisi",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Palpatine",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Count Dooku",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "General Grievous",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Kylo Ren",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Rey",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Finn",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Poe Dameron",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "BB-8",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Ash Ketchum",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Pikachu",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Ratón eléctrico amarillo mascota principal del mundo Pokémon."
-  },
-  {
-    "word": "Mario",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Fontanero italiano con gorra roja que rescata a Peach."
-  },
-  {
-    "word": "Luigi",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Hermano alto y verde de Mario que a veces asusta."
-  },
-  {
-    "word": "Peach",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Princesa del Reino Champiñón que suele ser secuestrada frecuentemente."
-  },
-  {
-    "word": "Bowser",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Rey de los Koopas que escupe fuego y secuestra princesas."
-  },
-  {
-    "word": "Link",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Héroe de Hyrule con túnica verde que busca la Trifuerza."
-  },
-  {
-    "word": "Zelda",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Princesa de Hyrule que posee la sabiduría de Trifuerza."
-  },
-  {
-    "word": "Ganon",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Samus Aran",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Kirby",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Donkey Kong",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Gorila gigante con corbata roja que lanza barriles pesados."
-  },
-  {
-    "word": "Sonic the Hedgehog",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Erizo azul superveloz que recoge anillos dorados muy rápido."
-  },
-  {
-    "word": "Kratos",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Dios de la guerra con tatuajes rojos y espadas encadenadas."
-  },
-  {
-    "word": "Master Chief",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Súper soldado con armadura verde que combate al Covenant."
-  },
-  {
-    "word": "Nathan Drake",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Joel Miller",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Ellie",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Lara Croft",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Arqueóloga aventurera experta en armas y exploración de tumbas."
-  },
-  {
-    "word": "Cloud Strife",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Sephiroth",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Tifa Lockhart",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Aerith Gainsborough",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Barret Wallace",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Vincent Valentine",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Yuffie Kisaragi",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Cid Highwind",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Cait Sith",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Zack Fair",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Solid Snake",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Liquid Snake",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Big Boss",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Revolver Ocelot",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "The Boss",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Otacon",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Meryl Silverburgh",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Raiden",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Gray Fox",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Psycho Mantis",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Sniper Wolf",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Vulcan Raven",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Decoy Octopus",
-    "category": "Categoría: Personajes Ficticios",
-    "clue": "Individuo imaginario que aparece en libros, películas o juegos."
-  },
-  {
-    "word": "Ciudad de México",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran urbe construida sobre restos de antigua capital azteca."
-  },
-  {
-    "word": "Buenos Aires",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Capital del tango con arquitectura europea en Sudamérica importante."
-  },
-  {
-    "word": "Moscú",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Bogotá",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Lima",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Londres",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Capital británica con el Big Ben y el río Támesis."
-  },
-  {
-    "word": "Santiago",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Madrid",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Capital de España con la Puerta del Sol y museos."
-  },
-  {
-    "word": "París",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Ciudad del amor con la Torre Eiffel y museos."
-  },
-  {
-    "word": "Berlín",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Roma",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Ciudad eterna con el Coliseo y mucha historia antigua."
-  },
-  {
-    "word": "Viena",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Praga",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Ámsterdam",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Bruselas",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Estocolmo",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Oslo",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Copenhague",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Helsinki",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Varsovia",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Budapest",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Bucarest",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Sofía",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Belgrado",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Zagreb",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Liubliana",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Bratislava",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Tirana",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Skopje",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Sarajevo",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Podgorica",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Pristina",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Kiev",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Minsk",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Nicosia",
-    "category": "Categoría: Ciudades del Mundo",
-    "clue": "Gran asentamiento humano con importancia geográfica en un país."
-  },
-  {
-    "word": "Cantar",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Bailar",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Actuar",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Pintar",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Dibujar",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Escribir",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Cocinar",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Hornear",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Programar",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Diseñar",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Fotografía",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Vídeo",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Música",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Instrumento",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Guitarra",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Instrumento de seis cuerdas que se toca con los dedos."
-  },
-  {
-    "word": "Piano",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Instrumento de teclas blancas y negras con cuerdas internas."
-  },
-  {
-    "word": "Batería",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Conjunto de percusión con bombos, cajas y platillos metálicos ruidosos."
-  },
-  {
-    "word": "Violín",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Instrumento de cuerda frotada con arco pequeño y agudo suave."
-  },
-  {
-    "word": "Flauta",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Saxofón",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Trompeta",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Beatbox",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Rap",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "DJ",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Ballet",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Contemporáneo",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Hip Hop",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Breakdance",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Salsa",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Bachata",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Tango",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Flamenco",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Danza del Vientre",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Teatro",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Improvisación",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Mimo",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Clown",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Magia",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Malabares",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Acrobacia",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Contorsionismo",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Equilibrio",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Prestidigitación",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Ilusionismo",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Mentalismo",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Escritura Creativa",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Guionismo",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Poesía",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Periodismo",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Bloguear",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Copywriting",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Edición de Texto",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Traducción",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Interpretación",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Idiomas",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Políglota",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Oratoria",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Retórica",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Debate",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Liderazgo",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Ventas",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Marketing",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Publicidad",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Carpintería",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Bricolaje",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Mecánica",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Fontanería",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Electricidad",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Soldadura",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Albañilería",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Jardinería",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Horticultura",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Floristería",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Paisajismo",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Adiestramiento Canino",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Equitación",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Cetreria",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Pesca",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Caza",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Yoga",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Meditación",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Mindfulness",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Ajedrez",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Cartas",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Poker",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Bridge",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Damas",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Go",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Backgammon",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Scrabble",
-    "category": "Categoría: Habilidades & Talentos",
-    "clue": "Capacidad o destreza que una persona puede desarrollar bien."
-  },
-  {
-    "word": "Apple",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Marca tecnológica del iPhone y la manzana mordida famosa."
-  },
-  {
-    "word": "Google",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "El buscador más utilizado de internet con colores primarios."
-  },
-  {
-    "word": "Microsoft",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Creadores del sistema operativo Windows y la consola Xbox."
-  },
-  {
-    "word": "Amazon",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Gigante del comercio electrónico con logo de flecha sonriente."
-  },
-  {
-    "word": "Facebook",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Red social más grande del mundo creada por Mark Zuckerberg."
-  },
-  {
-    "word": "Samsung",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Marca coreana líder en smartphones, televisores y electrodomésticos diversos."
-  },
-  {
-    "word": "Toyota",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Marca de coches japonesa conocida por su fiabilidad y calidad."
-  },
-  {
-    "word": "Coca-Cola",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Refresco de cola más vendido con logo rojo icónico."
-  },
-  {
-    "word": "Mercedes-Benz",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Disney",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Compañía de Mickey Mouse, castillos mágicos y películas animadas."
-  },
-  {
-    "word": "Nike",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Just do it."
-  },
-  {
-    "word": "Adidas",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Marca deportiva alemana con las tres rayas horizontales paralelas."
-  },
-  {
-    "word": "McDonald's",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "BMW",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Intel",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "IBM",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Sony",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Netflix",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Plataforma de streaming de películas y series con logo rojo."
-  },
-  {
-    "word": "Tesla",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Coches eléctricos de lujo fundados por Elon Musk futuristas."
-  },
-  {
-    "word": "Visa",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Mastercard",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Starbucks",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Cadena de cafeterías famosa con logo de sirena verde."
-  },
-  {
-    "word": "Pepsi",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Louis Vuitton",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Hermes",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Gucci",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Chanel",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Rolex",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Cartier",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Canon",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Nikon",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Dell",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "HP",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Lenovo",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Asus",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Acer",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Huawei",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Xiaomi",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Oppo",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Vivo",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Nokia",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Motorola",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Siemens",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Philips",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Panasonic",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "LG",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Ikea",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Zara",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "H&M",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Uniqlo",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "GAP",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Levi's",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Puma",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Reebok",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "New Balance",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Colgate",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Gillette",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Pampers",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Nivea",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Dove",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "L'Oreal",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Lego",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Nintendo",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Electronic Arts",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Ubisoft",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Activision",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Blizzard",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Rockstar Games",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Spotify",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Youtube",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "TikTok",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Instagram",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Snapchat",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Twitter",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "LinkedIn",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Airbnb",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Uber",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Lyft",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "FedEx",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "UPS",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "DHL",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Boeing",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Airbus",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "General Electric",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Ford",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Chevrolet",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Volkswagen",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Audi",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Porsche",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Ferrari",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Lamborghini",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Maserati",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Aston Martin",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Jaguar",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Land Rover",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Honda",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Nissan",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Subaru",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Mazda",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Mitsubishi",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Hyundai",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Kia",
-    "category": "Categoría: Marcas Mundiales",
-    "clue": "Empresa o producto reconocido globalmente por su logo distintivo."
-  },
-  {
-    "word": "Zeus",
-    "category": "Categoría: Mitología",
-    "clue": "Rey de los dioses griegos con el rayo potente."
-  },
-  {
-    "word": "Hera",
-    "category": "Categoría: Mitología",
-    "clue": "Reina de los dioses griegos y protectora del matrimonio fiel."
-  },
-  {
-    "word": "Poseidón",
-    "category": "Categoría: Mitología",
-    "clue": "Dios griego de los mares con el tridente y tormentas."
-  },
-  {
-    "word": "Ares",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Atenea",
-    "category": "Categoría: Mitología",
-    "clue": "Diosa griega de la sabiduría, estrategia y guerra justa sagrada."
-  },
-  {
-    "word": "Apolo",
-    "category": "Categoría: Mitología",
-    "clue": "Dios griego del sol, música profecía y artes variadas."
-  },
-  {
-    "word": "Artemisa",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Afrodita",
-    "category": "Categoría: Mitología",
-    "clue": "Diosa griega del amor, la belleza y el deseo humano."
-  },
-  {
-    "word": "Hefesto",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Dioniso",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Hades",
-    "category": "Categoría: Mitología",
-    "clue": "Dios griego del inframundo y las sombras de los muertos."
-  },
-  {
-    "word": "Perséfone",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Deméter",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Hestia",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Pan",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Hércules",
-    "category": "Categoría: Mitología",
-    "clue": "Héroe griego de fuerza sobrehumana con los doce trabajos famosos."
-  },
-  {
-    "word": "Aquiles",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Ulises",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Perseo",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Teseo",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Jasón",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Medea",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Circe",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Calipso",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Odín",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Freya",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Frigg",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Baldur",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Tyr",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Heimdall",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Sif",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Hel",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Fenrir",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Jormungand",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Valkiria",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Ra",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Isis",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Osiris",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Horus",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Anubis",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Set",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Thoth",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Bastet",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Sekhmet",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Hathor",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Ammit",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Sobek",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Nut",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Geb",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Shu",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Tefnut",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Júpiter",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Juno",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Neptuno",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Marte",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Minerva",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Febo",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Diana",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Venus",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Vulcano",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Mercurio",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Baco",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Plutón",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Saturno",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Ceres",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Vesta",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Cupido",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Psique",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Esculapio",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Belerofonte",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Eco",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Narciso",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Atalanta",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Hipólita",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Pentesilea",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Leda",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Europa",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Dánae",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Antígona",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Electra",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Casandra",
-    "category": "Categoría: Mitología",
-    "clue": "Ser o divinidad de leyendas antiguas de una cultura."
-  },
-  {
-    "word": "Clarinete",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Oboe",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Fagot",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Trombón",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Tuba",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Arpa",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Violonchelo",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Viola",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Contrabajo",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Ukelele",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Banjo",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Mandolina",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Lira",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Cítara",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Órgano",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Clavicordio",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Sintetizador",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Acordeón",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Armónica",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Gaita",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Dulcimer",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Sitar",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Tabla",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Koto",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Shamisen",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Erhu",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Guzheng",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Pipa",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Didgeridoo",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Djembe",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Conga",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Bongo",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Cajón",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Marimba",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Xilófono",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Vibráfono",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Glockenspiel",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Triángulo",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Pandereta",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Castañuelas",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Gong",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Platos",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Bombo",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Caja",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Timbal",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Tam-Tam",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Celesta",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Theremin",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Ondas Martenot",
-    "category": "Categoría: Instrumentos",
-    "clue": "Objeto utilizado para crear sonidos musicales de forma armoniosa."
-  },
-  {
-    "word": "Coche",
-    "category": "Categoría: Transporte",
-    "clue": "Vehículo de cuatro ruedas para transporte personal por carretera común."
-  },
-  {
-    "word": "Autobús",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Tren",
-    "category": "Categoría: Transporte",
-    "clue": "Vehículo sobre raíles que transporta muchos pasajeros o carga pesada."
-  },
-  {
-    "word": "Avión",
-    "category": "Categoría: Transporte",
-    "clue": "Vehículo aéreo con alas para viajar largas distancias rápido."
+    "word": "Pera",
+    "category": "Fruta",
+    "clue": "Verde"
   },
   {
     "word": "Barco",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "category": "Vehículo",
+    "clue": "Agua"
+  },
+  {
+    "word": "Avión",
+    "category": "Vehículo",
+    "clue": "Aire"
+  },
+  {
+    "word": "Coche",
+    "category": "Vehículo",
+    "clue": "Tierra"
   },
   {
     "word": "Bicicleta",
-    "category": "Categoría: Transporte",
-    "clue": "Vehículo de dos ruedas movido por pedales y esfuerzo humano."
+    "category": "Vehículo",
+    "clue": "Tierra"
   },
   {
-    "word": "Motocicleta",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Moto",
+    "category": "Vehículo",
+    "clue": "Tierra"
   },
   {
-    "word": "Scooter",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Camión",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Furgoneta",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Taxi",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Metro",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Tranvía",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Teleférico",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Monorraíl",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Ferry",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Crucero",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Velero",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
-  },
-  {
-    "word": "Submarino",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Tren",
+    "category": "Vehículo",
+    "clue": "Tierra"
   },
   {
     "word": "Helicóptero",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "category": "Vehículo",
+    "clue": "Aire"
   },
   {
-    "word": "Avioneta",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Submarino",
+    "category": "Vehículo",
+    "clue": "Agua"
   },
   {
-    "word": "Globo Aerostático",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Yate",
+    "category": "Vehículo",
+    "clue": "Agua"
   },
   {
-    "word": "Dirigible",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Lancha",
+    "category": "Vehículo",
+    "clue": "Agua"
   },
   {
-    "word": "Cohete",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Pez",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Lanzadera",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Perro",
+    "category": "Animal",
+    "clue": "Mascota"
   },
   {
-    "word": "Rover",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Gato",
+    "category": "Animal",
+    "clue": "Mascota"
   },
   {
-    "word": "Tractocamión",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Pájaro",
+    "category": "Animal",
+    "clue": "Aire"
   },
   {
-    "word": "Excavadora",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "León",
+    "category": "Animal",
+    "clue": "Selva"
   },
   {
-    "word": "Grúa",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Tigre",
+    "category": "Animal",
+    "clue": "Selva"
   },
   {
-    "word": "Ambulancia",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Elefante",
+    "category": "Animal",
+    "clue": "Selva"
   },
   {
-    "word": "Patrulla",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Jirafa",
+    "category": "Animal",
+    "clue": "Selva"
   },
   {
-    "word": "Bomberos",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Mono",
+    "category": "Animal",
+    "clue": "Selva"
   },
   {
-    "word": "Tractor",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Serpiente",
+    "category": "Animal",
+    "clue": "Selva"
   },
   {
-    "word": "Cosechadora",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Cocodrilo",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Carretilla",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Tiburón",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Segway",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Ballena",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Monociclo",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Delfín",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Skateboard",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Pulpo",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Patinete Eléctrico",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Cangrejo",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Pueblo",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Tortuga",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Ciudad",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Caballo",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Carretera",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Vaca",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Autopista",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Cerdo",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Vía Férrea",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Oveja",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Puerto",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Cabra",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Aeropuerto",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Gallina",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Estación",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Gallo",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Terminal",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Pato",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Andén",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Conejo",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Garaje",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Ardilla",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Aparcamiento",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Loro",
+    "category": "Animal",
+    "clue": "Aire"
   },
   {
-    "word": "Peaje",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Águila",
+    "category": "Animal",
+    "clue": "Aire"
   },
   {
-    "word": "Surtidor",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Búho",
+    "category": "Animal",
+    "clue": "Aire"
   },
   {
-    "word": "Taller",
-    "category": "Categoría: Transporte",
-    "clue": "Medio utilizado para trasladar personas o mercancías de sitio."
+    "word": "Murciélago",
+    "category": "Animal",
+    "clue": "Aire"
   },
   {
-    "word": "Lluvia",
-    "category": "Categoría: Fenómenos",
-    "clue": "Agua que cae de las nubes de forma natural frecuentemente."
+    "word": "Zorro",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Nieve",
-    "category": "Categoría: Fenómenos",
-    "clue": "Agua helada en copos blancos que cubre el suelo frío."
+    "word": "Lobo",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Tormenta",
-    "category": "Categoría: Fenómenos",
-    "clue": "Fenómeno con rayos, truenos y lluvia intensa con viento fuerte."
-  },
-  {
-    "word": "Rayo",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Trueno",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Viento",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Huracán",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Tornado",
-    "category": "Categoría: Fenómenos",
-    "clue": "Columna de aire que gira violentamente desde una nube negra."
-  },
-  {
-    "word": "Tifón",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Ciclón",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Terremoto",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Maremoto",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Tsunami",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Erupción Volcánica",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Avalancha",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Inundación",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Sequía",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Ola de Calor",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Ola de Frío",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Granizo",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Niebla",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Rocío",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Escarcha",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Arco Iris",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Aurora Boreal",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Eclipse Solar",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Eclipse Lunar",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Superluna",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Lluvia de Estrellas",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Cometa",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Meteorito",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Marea",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Corriente Marina",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Vórtice",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Remolino",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Géiser",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Fumarola",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Glaciar",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Iceberg",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Duna",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Oasis",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Espejismo",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Fuego Fatuo",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Relámpago de Catatumbo",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Nube de Ceniza",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Lluvia Ácida",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Efecto Invernadero",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Agujero de Capa de Ozono",
-    "category": "Categoría: Fenómenos",
-    "clue": "Evento natural o suceso observable en el entorno natural."
-  },
-  {
-    "word": "Axolotl",
-    "category": "Categoría: Animales Extra",
-    "clue": "Anfibio mexicano capaz de regenerar sus extremidades y branquias externas."
-  },
-  {
-    "word": "Pangolín",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Fennec Fox",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Quokka",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Wombat",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Narval",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Beluga",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Manatí",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Dugongo",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Okapi",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Saiga",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Tarsier",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Aye-Aye",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Echidna",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Ornitorrinco",
-    "category": "Categoría: Animales Extra",
-    "clue": "Mamífero que pone huevos, tiene pico de pato y veneno."
-  },
-  {
-    "word": "Lemur",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Perez sloth",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Armadillo",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Hormiguero",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
-  },
-  {
-    "word": "Tapir",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Oso",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
     "word": "Leopardo",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "category": "Animal",
+    "clue": "Selva"
   },
   {
     "word": "Pantera",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "category": "Animal",
+    "clue": "Selva"
   },
   {
-    "word": "Lince",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Rinoceronte",
+    "category": "Animal",
+    "clue": "Selva"
   },
   {
-    "word": "Coyote",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Hipopótamo",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Dingo",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Lagarto",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Chacal",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Camaleón",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Hiena",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Iguana",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Suricata",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Gecko",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Mangosta",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Araña",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Civeta",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Escorpión",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Geneta",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Caracol",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Nutria",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Babosa",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Tejón",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Hormiga",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Marta",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Abeja",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Comadreja",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Mosca",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Visón",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Mosquito",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Armiño",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Mariposa",
+    "category": "Animal",
+    "clue": "Aire"
   },
   {
-    "word": "Mofeta",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Libélula",
+    "category": "Animal",
+    "clue": "Aire"
   },
   {
-    "word": "Mustela",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Grillo",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Hurón",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Saltamontes",
+    "category": "Animal",
+    "clue": "Tierra"
   },
   {
-    "word": "Tejón Mielero",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Rana",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Carcayú",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Sapo",
+    "category": "Animal",
+    "clue": "Agua"
   },
   {
-    "word": "Oso Polar",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Árbol",
+    "category": "Planta",
+    "clue": "Madera"
   },
   {
-    "word": "Oso Panda",
-    "category": "Categoría: Animales Extra",
-    "clue": "Oso blanco y negro que come principalmente bambú en China."
+    "word": "Flor",
+    "category": "Planta",
+    "clue": "Olor"
   },
   {
-    "word": "Oso Grizzly",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Lluvia",
+    "category": "Fenómeno natural",
+    "clue": "Paraguas"
   },
   {
-    "word": "Oso Kodiak",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Sol",
+    "category": "Fenómeno natural",
+    "clue": "Calor"
   },
   {
-    "word": "Oso Anteojos",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Nube",
+    "category": "Fenómeno natural",
+    "clue": "Lluvia"
   },
   {
-    "word": "Oso Malayo",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Nieve",
+    "category": "Fenómeno natural",
+    "clue": "Frío"
   },
   {
-    "word": "Oso Labiado",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Trueno",
+    "category": "Fenómeno natural",
+    "clue": "Rayo"
   },
   {
-    "word": "Oso Negro",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Rayo",
+    "category": "Fenómeno natural",
+    "clue": "Trueno"
   },
   {
-    "word": "Oso Pardo",
-    "category": "Categoría: Animales Extra",
-    "clue": "Criatura del reino animal con características biológicas muy peculiares."
+    "word": "Viento",
+    "category": "Fenómeno natural",
+    "clue": "Aire"
   },
   {
-    "word": "Croissant",
-    "category": "Categoría: Comida Extra",
-    "clue": "Bollo de hojaldre francés con forma de media luna sabroso."
+    "word": "Huracán",
+    "category": "Fenómeno natural",
+    "clue": "Viento"
   },
   {
-    "word": "Baguette",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Tornado",
+    "category": "Fenómeno natural",
+    "clue": "Viento"
   },
   {
-    "word": "Pretzel",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Terremoto",
+    "category": "Fenómeno natural",
+    "clue": "Tierra"
   },
   {
-    "word": "Bagel",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Volcán",
+    "category": "Fenómeno natural",
+    "clue": "Tierra"
   },
   {
-    "word": "Muffin",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Eclipse",
+    "category": "Fenómeno natural",
+    "clue": "Sol"
   },
   {
-    "word": "Donut",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Arcoiris",
+    "category": "Fenómeno natural",
+    "clue": "Lluvia"
   },
   {
-    "word": "Brownie",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Cometa",
+    "category": "Fenómeno natural",
+    "clue": "Espacio"
   },
   {
-    "word": "Cookie",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Meteorito",
+    "category": "Fenómeno natural",
+    "clue": "Espacio"
   },
   {
-    "word": "Macaron",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Estrella",
+    "category": "Fenómeno natural",
+    "clue": "Noche"
   },
   {
-    "word": "Eclair",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Luna",
+    "category": "Fenómeno natural",
+    "clue": "Noche"
   },
   {
-    "word": "Profiterole",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Mar",
+    "category": "Fenómeno natural",
+    "clue": "Agua"
   },
   {
-    "word": "Tarta de Queso",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Río",
+    "category": "Fenómeno natural",
+    "clue": "Agua"
   },
   {
-    "word": "Tiramisú",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Lago",
+    "category": "Fenómeno natural",
+    "clue": "Agua"
   },
   {
-    "word": "Panna Cotta",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Océano",
+    "category": "Fenómeno natural",
+    "clue": "Agua"
   },
   {
-    "word": "Gelato",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Cascada",
+    "category": "Fenómeno natural",
+    "clue": "Agua"
   },
   {
-    "word": "Baklava",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Glaciar",
+    "category": "Fenómeno natural",
+    "clue": "Agua"
   },
   {
-    "word": "Gulab Jamun",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Desierto",
+    "category": "Fenómeno natural",
+    "clue": "Tierra"
   },
   {
-    "word": "Mochi",
-    "category": "Categoría: Comida Extra",
-    "clue": "Dulce japonés hecho de pasta de arroz elástica y relleno."
+    "word": "Selva",
+    "category": "Fenómeno natural",
+    "clue": "Tierra"
   },
   {
-    "word": "Churro",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Bosque",
+    "category": "Fenómeno natural",
+    "clue": "Tierra"
   },
   {
-    "word": "Alfajor",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Montaña",
+    "category": "Fenómeno natural",
+    "clue": "Tierra"
   },
   {
-    "word": "Brigadeiro",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Valle",
+    "category": "Fenómeno natural",
+    "clue": "Tierra"
   },
   {
-    "word": "Pão de Queijo",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Cañón",
+    "category": "Fenómeno natural",
+    "clue": "Tierra"
   },
   {
-    "word": "Coxinha",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Cueva",
+    "category": "Fenómeno natural",
+    "clue": "Tierra"
   },
   {
-    "word": "Kibe",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Playa",
+    "category": "Fenómeno natural",
+    "clue": "Agua"
   },
   {
-    "word": "Samosa",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Isla",
+    "category": "Fenómeno natural",
+    "clue": "Agua"
   },
   {
-    "word": "Naan",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Península",
+    "category": "Fenómeno natural",
+    "clue": "Agua"
   },
   {
-    "word": "Pita",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Archipiélago",
+    "category": "Fenómeno natural",
+    "clue": "Agua"
   },
   {
-    "word": "Hummus",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Planeta",
+    "category": "Espacio",
+    "clue": "Gravedad"
   },
   {
-    "word": "Falafel",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Galaxia",
+    "category": "Espacio",
+    "clue": "Estrellas"
   },
   {
-    "word": "Shawarma",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Nebulosa",
+    "category": "Espacio",
+    "clue": "Estrellas"
   },
   {
-    "word": "Kebab",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Agujero negro",
+    "category": "Espacio",
+    "clue": "Gravedad"
   },
   {
-    "word": "Couscous",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Asterioide",
+    "category": "Espacio",
+    "clue": "Estrellas"
   },
   {
-    "word": "Tajine",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Satélite",
+    "category": "Espacio",
+    "clue": "Girar"
   },
   {
-    "word": "Dahl",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Estación espacial",
+    "category": "Espacio",
+    "clue": "Metal"
   },
   {
-    "word": "Paneer",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Astronauta",
+    "category": "Espacio",
+    "clue": "Traje"
   },
   {
-    "word": "Ghee",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Cohete",
+    "category": "Espacio",
+    "clue": "Vehículo"
   },
   {
-    "word": "Tofu",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Tempeh",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Seitan",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Edamame",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Gyoza",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Dim Sum",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Baozi",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Onigiri",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Miso",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Kimchi",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Bibimbap",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Bulgogi",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Japchae",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
-  },
-  {
-    "word": "Kimbap",
-    "category": "Categoría: Comida Extra",
-    "clue": "Alimento o platillo consumido por humanos para alimentarse bien."
+    "word": "Telescopio",
+    "category": "Espacio",
+    "clue": "Lejos"
   }
 ]
